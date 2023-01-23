@@ -1,0 +1,14 @@
+https://ereporting.blob.core.windows.net/downloadservice/PT_5_30761_2017_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT_8_30837_2017_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT_9_30816_2017_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT_38_30700_2017_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT_5_30761_2018_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT_8_30837_2018_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT_9_30816_2018_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT_38_30700_2018_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT/PT_5_30761_2019_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT/PT_8_30837_2019_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT/PT_9_30816_2019_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT/PT_38_30700_2019_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT/PT_5_30761_2020_timeseries.csv
+https://ereporting.blob.core.windows.net/downloadservice/PT/PT_5_30761_2021_timeseries.csv
